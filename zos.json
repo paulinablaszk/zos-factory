@@ -1,0 +1,10 @@
+{
+  "zosversion": "2",
+  "name": "zos-factory",
+  "version": "0.1.0",
+  "contracts": {
+    "MyContract": "MyContract",
+    "MyApp": "MyApp",
+    "NewContract": "NewContract"
+  }
+}
